@@ -2203,9 +2203,9 @@ header {
 .banner-content {
   text-align: center;
 }
-/* .mar{
-  margin-top: 200px;
-} */
+.mar{
+  margin-top: 400px;
+}
 .rotateimg180 {
   -webkit-transform:rotate(180deg);
   -moz-transform: rotate(180deg);
